@@ -1,0 +1,52 @@
+p.dline {
+    line-height: 2;
+   }
+   P {
+    line-height: 0.3em;
+   }
+   td {
+       vertical-align: text-top;
+   }
+
+a {
+    color: green;
+}
+
+ul {list-style: none;}
+
+.a1 {color: red;}
+
+.b2 {
+     color: brown;}
+.a2 
+{
+    color: yellow;
+}
+.purple {
+    color: purple;
+    line-height: 3;
+}
+.c1 {
+       color: blue;
+       font-size: 20px;
+       
+    ;}
+
+    .c2 {
+
+        background-color: grey;
+    }
+    .table2 {
+       
+    }
+.size {
+    font-size: 18px;
+}
+
+table {
+    border-collapse: collapse;
+  }
+  
+  .img1 {border-radius: 50%;}
+
+  .img2 {border-radius: 40px 10px;}
